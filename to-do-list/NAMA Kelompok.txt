@@ -1,0 +1,14 @@
+NAMA Kelompok :
+
+1.Tegar Kurniawan ( 240030379 )
+2. Reyzaldi Dwi Putra ( 240030350 )
+3. I Made Suyuda Pranata ( 240030343 )
+4. Ni Made Pradnyan Ari Laksita ( 240030366 )
+
+Pembagian Tugas Project To-Do-List :
+ 1. Tegar
+Menyambungkan Link Wa untuk mengirimkan tugas ke WhatsApp
+ 2. Reyzaldi
+ Membuat Backend untuk menginputkan formnya tetapi hanya menggunakan JavaScript biasa tanpa menggunakan Laravel
+ 3. Laksita & Suyuda
+Membuat frontend,dan cssnya untuk memnampilkan form dan memberikan pewarnaan basic
